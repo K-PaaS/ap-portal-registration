@@ -49,9 +49,9 @@ eureka:
 
 #Infra Admin Settings (current version not used)
 #project:
-#  name: paasta-registration
-#  artifactId: paasta-registration
-#  description: paasta eureka service
+#  name: ap-registration
+#  artifactId: ap-registration
+#  description: ap eureka service
 #info:
 #  app:
 #    encoding: Encoding - UTF-8
