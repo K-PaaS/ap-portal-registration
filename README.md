@@ -1,4 +1,4 @@
-# PAAS-TA-PORTAL-REGISTRATION
+# ap-portal-registration
 
 ## REGISTRATION
 Spring-cloud 프로젝트의 Service discovery server로 Eureka 를 사용한 어플리케이션이다. 

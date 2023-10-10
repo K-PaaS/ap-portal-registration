@@ -6,7 +6,7 @@ applications:
     - java_buildpack
     routes:
     - route: portal-registration.<APP_DOMAIN>
-    path: build/libs/paas-ta-portal-registration.jar
+    path: build/libs/ap-portal-registration.jar
     env:
       server_port: 8080
       
